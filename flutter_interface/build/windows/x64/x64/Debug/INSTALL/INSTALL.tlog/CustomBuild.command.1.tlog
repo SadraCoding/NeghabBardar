@@ -1,0 +1,10 @@
+^D:\PROJECTS\DEEPFAKE-FINAL\FLUTTER_INTERFACE\BUILD\WINDOWS\X64\CMAKEFILES\0A42172D0D0F139CF0D9CC93448B5FF7\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

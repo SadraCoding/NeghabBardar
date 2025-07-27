@@ -1,0 +1,10 @@
+^D:\PROJECTS\DEEPFAKE-FINAL\FLUTTER_INTERFACE\BUILD\WINDOWS\X64\CMAKEFILES\0A42172D0D0F139CF0D9CC93448B5FF7\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/Projects/Deepfake-final/flutter_interface/windows -BD:/Projects/Deepfake-final/flutter_interface/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Projects/Deepfake-final/flutter_interface/build/windows/x64/deepfake_detector.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\Projects\Deepfake-final\flutter_interface\build\windows\x64\x64\Release\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Projects\Deepfake-final\flutter_interface\build\windows\x64\flutter\x64\Release\flutter_assemble</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Projects\Deepfake-final\flutter_interface\build\windows\x64\plugins\flutter_acrylic\Release\flutter_acrylic_plugin.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Projects\Deepfake-final\flutter_interface\build\windows\x64\plugins\url_launcher_windows\Release\url_launcher_windows_plugin.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Projects\Deepfake-final\flutter_interface\build\windows\x64\plugins\window_size\Release\window_size_plugin.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Projects\Deepfake-final\flutter_interface\build\windows\x64\runner\Release\deepfake_detector.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Projects\Deepfake-final\flutter_interface\build\windows\x64\x64\Release\ALL_BUILD</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Projects\Deepfake-final\flutter_interface\build\windows\x64\x64\Release\INSTALL</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

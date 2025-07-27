@@ -1,6 +1,6 @@
 # نقاب بردار
 
-این پروژه توسط **[صدرا میلانی مقدم](https://sadramilani.ir)** توسعه داده شده است.
+این پروژه توسط **[صدرا میلانی مقدم](https://sadramilani.ir/fa)** توسعه داده شده است.
 
 ![neghabbardar.jpg](media/neghabbardar.jpg)
 

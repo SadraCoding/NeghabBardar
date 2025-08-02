@@ -43,7 +43,7 @@ python train.py
 pip install -r requirements.txt
 ```
 ```bash
-python model/predict.py --image example.jpg
+python model/predict.py --image ./example.jpg
 ```
 
 ## نحوه راه اندازی و اجرای محیط گرافیکی (UI)
